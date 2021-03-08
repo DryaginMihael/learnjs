@@ -42,6 +42,3 @@ set.delete(5); // Удаляет именно значение
 console.log(set.values()); // Значения
 console.log(set.keys()); // Те же значения
 console.log(set.entries()); // Массивы в которых значения дублируются
-
-
-
